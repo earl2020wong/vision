@@ -1,1 +1,1 @@
-# Vision & Computational Imaging
+# Vision / Computational Imaging
